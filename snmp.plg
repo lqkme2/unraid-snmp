@@ -150,6 +150,9 @@ disk /mnt/disk17
 disk /mnt/disk18
 disk /mnt/disk19
 disk /mnt/disk20
+disk /mnt/disk21
+disk /mnt/disk22
+disk /mnt/disk23
 disk /mnt/cache
 
 extend disktemp &plugdir;/drive_temps.sh
